@@ -1,0 +1,11 @@
+C:\Users\theav\source\repos\ComboEmployeeApp\bin\Debug\ComboEmployeeApp.exe.config
+C:\Users\theav\source\repos\ComboEmployeeApp\bin\Debug\ComboEmployeeApp.exe
+C:\Users\theav\source\repos\ComboEmployeeApp\bin\Debug\ComboEmployeeApp.pdb
+C:\Users\theav\source\repos\ComboEmployeeApp\obj\Debug\ComboEmployeeApp.csproj.AssemblyReference.cache
+C:\Users\theav\source\repos\ComboEmployeeApp\obj\Debug\ComboEmployeeApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\theav\source\repos\ComboEmployeeApp\obj\Debug\ComboEmployeeApp.CboEmployee.resources
+C:\Users\theav\source\repos\ComboEmployeeApp\obj\Debug\ComboEmployeeApp.Properties.Resources.resources
+C:\Users\theav\source\repos\ComboEmployeeApp\obj\Debug\ComboEmployeeApp.csproj.GenerateResource.cache
+C:\Users\theav\source\repos\ComboEmployeeApp\obj\Debug\ComboEmployeeApp.csproj.CoreCompileInputs.cache
+C:\Users\theav\source\repos\ComboEmployeeApp\obj\Debug\ComboEmployeeApp.exe
+C:\Users\theav\source\repos\ComboEmployeeApp\obj\Debug\ComboEmployeeApp.pdb
